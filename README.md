@@ -91,6 +91,16 @@ Each species has 50 examples.
 - Deploy using Streamlit or Flask as a simple web app
 
 ---
+## 📂 Folder Structure
+
+```bash
+iris-flower-classification/
+├── Iris.csv
+├── iris_classifier.ipynb
+├── README.md
+```
+
+---
 
 
 ## 🚀 How to Run Locally
@@ -99,9 +109,9 @@ Each species has 50 examples.
    ```bash
    git clone https://github.com/yourusername/iris-flower-classification.git
    cd iris-flower-classification
+   ```
 
-
-
+---
 
 
 
